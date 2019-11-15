@@ -1,0 +1,8 @@
+To do:
+
+Increase training time to inrease chance of malicious code being speculated.
+Maybe find earlier stopping criteria - wait till variance of access time decreases below threshold and check if it is above the CPU threshold
+Maybe look for cache misses instead of hits
+Try to access multiple characters at a time
+Increase speculation evaluation to give time for loads
+Reduce the load times of the secret by maybe causing a prefetch
