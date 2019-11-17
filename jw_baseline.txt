@@ -1,0 +1,1801 @@
+NOW
+Threshold:  1 	Rep:  1 	Time: 14.295439     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  1 	Rep:  2 	Time: 14.264229     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  1 	Rep:  3 	Time: 14.323875     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  1 	Rep:  4 	Time: 14.198857     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  1 	Rep:  5 	Time: 14.153907     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  2 	Rep:  1 	Time: 14.178973     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  2 	Rep:  2 	Time: 14.359051     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  2 	Rep:  3 	Time: 14.283234     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  2 	Rep:  4 	Time: 14.265856     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  2 	Rep:  5 	Time: 14.305604     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  3 	Rep:  1 	Time: 14.333203     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  3 	Rep:  2 	Time: 14.282327     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  3 	Rep:  3 	Time: 14.253602     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  3 	Rep:  4 	Time: 14.208662     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  3 	Rep:  5 	Time: 14.280239     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  4 	Rep:  1 	Time: 14.281827     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  4 	Rep:  2 	Time: 14.231273     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  4 	Rep:  3 	Time: 14.247804     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  4 	Rep:  4 	Time: 14.378016     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  4 	Rep:  5 	Time: 14.277875     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  5 	Rep:  1 	Time: 14.276007     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  5 	Rep:  2 	Time: 14.350560     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  5 	Rep:  3 	Time: 14.354724     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  5 	Rep:  4 	Time: 14.279727     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  5 	Rep:  5 	Time: 14.257835     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  6 	Rep:  1 	Time: 14.337128     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  6 	Rep:  2 	Time: 14.237374     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  6 	Rep:  3 	Time: 14.388688     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  6 	Rep:  4 	Time: 14.133661     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  6 	Rep:  5 	Time: 14.275903     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  7 	Rep:  1 	Time: 14.311790     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  7 	Rep:  2 	Time: 14.318909     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  7 	Rep:  3 	Time: 14.472075     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  7 	Rep:  4 	Time: 14.266288     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  7 	Rep:  5 	Time: 14.260665     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  8 	Rep:  1 	Time: 14.201850     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  8 	Rep:  2 	Time: 14.249077     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  8 	Rep:  3 	Time: 14.456188     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  8 	Rep:  4 	Time: 14.205316     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  8 	Rep:  5 	Time: 14.219859     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  9 	Rep:  1 	Time: 14.276054     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  9 	Rep:  2 	Time: 14.333897     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  9 	Rep:  3 	Time: 14.300351     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  9 	Rep:  4 	Time: 14.497026     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  9 	Rep:  5 	Time: 14.229653     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  10 	Rep:  1 	Time: 14.440510     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  10 	Rep:  2 	Time: 14.323424     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  10 	Rep:  3 	Time: 14.336439     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  10 	Rep:  4 	Time: 14.306152     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  10 	Rep:  5 	Time: 14.158459     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  11 	Rep:  1 	Time: 14.178264     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  11 	Rep:  2 	Time: 14.203507     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  11 	Rep:  3 	Time: 14.346128     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  11 	Rep:  4 	Time: 14.271589     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  11 	Rep:  5 	Time: 14.205504     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  12 	Rep:  1 	Time: 14.316993     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  12 	Rep:  2 	Time: 14.288606     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  12 	Rep:  3 	Time: 14.238902     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  12 	Rep:  4 	Time: 15.165561     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  12 	Rep:  5 	Time: 14.201342     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  13 	Rep:  1 	Time: 14.383165     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  13 	Rep:  2 	Time: 14.222506     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  13 	Rep:  3 	Time: 14.648698     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  13 	Rep:  4 	Time: 14.208932     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  13 	Rep:  5 	Time: 14.223972     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  14 	Rep:  1 	Time: 14.380491     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  14 	Rep:  2 	Time: 14.196952     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  14 	Rep:  3 	Time: 14.288116     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  14 	Rep:  4 	Time: 14.656830     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  14 	Rep:  5 	Time: 14.289092     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  15 	Rep:  1 	Time: 14.490617     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  15 	Rep:  2 	Time: 14.243754     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  15 	Rep:  3 	Time: 14.373276     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  15 	Rep:  4 	Time: 14.283544     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  15 	Rep:  5 	Time: 14.335878     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  16 	Rep:  1 	Time: 14.182056     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  16 	Rep:  2 	Time: 14.141395     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  16 	Rep:  3 	Time: 14.287798     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  16 	Rep:  4 	Time: 14.369277     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  16 	Rep:  5 	Time: 14.296335     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  17 	Rep:  1 	Time: 14.258559     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  17 	Rep:  2 	Time: 14.272341     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  17 	Rep:  3 	Time: 14.217496     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  17 	Rep:  4 	Time: 14.263486     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  17 	Rep:  5 	Time: 14.275624     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  18 	Rep:  1 	Time: 14.241143     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  18 	Rep:  2 	Time: 14.277602     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  18 	Rep:  3 	Time: 14.251612     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  18 	Rep:  4 	Time: 14.244131     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  18 	Rep:  5 	Time: 14.183078     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  19 	Rep:  1 	Time: 14.244399     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  19 	Rep:  2 	Time: 14.272152     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  19 	Rep:  3 	Time: 14.615321     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  19 	Rep:  4 	Time: 14.210881     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  19 	Rep:  5 	Time: 14.161348     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  20 	Rep:  1 	Time: 14.277933     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  20 	Rep:  2 	Time: 14.358888     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  20 	Rep:  3 	Time: 14.261167     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  20 	Rep:  4 	Time: 14.266598     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  20 	Rep:  5 	Time: 14.443750     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  21 	Rep:  1 	Time: 14.202841     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  21 	Rep:  2 	Time: 14.172173     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  21 	Rep:  3 	Time: 14.332575     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  21 	Rep:  4 	Time: 14.223093     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  21 	Rep:  5 	Time: 14.224915     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  22 	Rep:  1 	Time: 14.200684     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  22 	Rep:  2 	Time: 14.278155     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  22 	Rep:  3 	Time: 14.186261     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  22 	Rep:  4 	Time: 14.447439     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  22 	Rep:  5 	Time: 14.321342     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  23 	Rep:  1 	Time: 14.165692     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  23 	Rep:  2 	Time: 14.248064     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  23 	Rep:  3 	Time: 14.312409     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  23 	Rep:  4 	Time: 14.265410     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  23 	Rep:  5 	Time: 14.231352     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  24 	Rep:  1 	Time: 14.199924     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  24 	Rep:  2 	Time: 14.180751     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  24 	Rep:  3 	Time: 14.118614     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  24 	Rep:  4 	Time: 14.405946     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  24 	Rep:  5 	Time: 14.162336     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  25 	Rep:  1 	Time: 14.260051     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  25 	Rep:  2 	Time: 14.183196     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  25 	Rep:  3 	Time: 14.357445     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  25 	Rep:  4 	Time: 14.285540     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  25 	Rep:  5 	Time: 14.349430     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  26 	Rep:  1 	Time: 14.304202     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  26 	Rep:  2 	Time: 14.262566     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  26 	Rep:  3 	Time: 14.261666     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  26 	Rep:  4 	Time: 14.359280     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  26 	Rep:  5 	Time: 14.228949     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  27 	Rep:  1 	Time: 14.319844     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  27 	Rep:  2 	Time: 14.247082     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  27 	Rep:  3 	Time: 14.268375     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  27 	Rep:  4 	Time: 14.361905     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  27 	Rep:  5 	Time: 14.185899     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  28 	Rep:  1 	Time: 14.361463     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  28 	Rep:  2 	Time: 14.255083     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  28 	Rep:  3 	Time: 14.336327     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  28 	Rep:  4 	Time: 14.242936     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  28 	Rep:  5 	Time: 14.347661     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  29 	Rep:  1 	Time: 14.161341     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  29 	Rep:  2 	Time: 14.194195     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  29 	Rep:  3 	Time: 14.190727     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  29 	Rep:  4 	Time: 14.259188     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  29 	Rep:  5 	Time: 14.162579     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  30 	Rep:  1 	Time: 14.189057     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  30 	Rep:  2 	Time: 14.264214     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  30 	Rep:  3 	Time: 14.169099     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  30 	Rep:  4 	Time: 14.260046     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  30 	Rep:  5 	Time: 14.334433     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  31 	Rep:  1 	Time: 14.855740     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  31 	Rep:  2 	Time: 14.180609     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  31 	Rep:  3 	Time: 14.189009     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  31 	Rep:  4 	Time: 14.301275     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  31 	Rep:  5 	Time: 14.202501     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  32 	Rep:  1 	Time: 14.203080     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  32 	Rep:  2 	Time: 14.336689     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  32 	Rep:  3 	Time: 14.197106     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  32 	Rep:  4 	Time: 14.288419     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  32 	Rep:  5 	Time: 14.196934     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  33 	Rep:  1 	Time: 14.488393     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  33 	Rep:  2 	Time: 14.333031     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  33 	Rep:  3 	Time: 14.235483     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  33 	Rep:  4 	Time: 14.226399     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  33 	Rep:  5 	Time: 14.233587     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  34 	Rep:  1 	Time: 14.429977     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  34 	Rep:  2 	Time: 14.317062     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  34 	Rep:  3 	Time: 14.291820     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  34 	Rep:  4 	Time: 14.175531     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  34 	Rep:  5 	Time: 14.266590     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  35 	Rep:  1 	Time: 14.261955     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  35 	Rep:  2 	Time: 14.174145     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  35 	Rep:  3 	Time: 14.325702     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  35 	Rep:  4 	Time: 14.208817     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  35 	Rep:  5 	Time: 14.286055     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  36 	Rep:  1 	Time: 14.575640     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  36 	Rep:  2 	Time: 14.142547     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  36 	Rep:  3 	Time: 14.184854     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  36 	Rep:  4 	Time: 14.258191     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  36 	Rep:  5 	Time: 14.187695     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  37 	Rep:  1 	Time: 14.173355     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  37 	Rep:  2 	Time: 14.284248     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  37 	Rep:  3 	Time: 14.280968     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  37 	Rep:  4 	Time: 14.344680     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  37 	Rep:  5 	Time: 14.194849     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  38 	Rep:  1 	Time: 14.276602     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  38 	Rep:  2 	Time: 14.257385     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  38 	Rep:  3 	Time: 14.237933     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  38 	Rep:  4 	Time: 14.274227     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  38 	Rep:  5 	Time: 14.249626     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  39 	Rep:  1 	Time: 14.152423     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  39 	Rep:  2 	Time: 14.278211     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  39 	Rep:  3 	Time: 14.207987     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  39 	Rep:  4 	Time: 14.251519     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+Threshold:  39 	Rep:  5 	Time: 14.324008     Matches: 0     Errors: 438     PercentCorrect: 0.000000
+==============================================================================
+Threshold:  40 	Rep:  1 	Time: 0.129806     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  40 	Rep:  2 	Time: 0.119333     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  40 	Rep:  3 	Time: 0.121545     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  40 	Rep:  4 	Time: 0.099374     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  40 	Rep:  5 	Time: 0.111763     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  41 	Rep:  1 	Time: 0.112973     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  41 	Rep:  2 	Time: 0.121158     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  41 	Rep:  3 	Time: 0.114125     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  41 	Rep:  4 	Time: 0.119067     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  41 	Rep:  5 	Time: 0.121785     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  42 	Rep:  1 	Time: 0.121894     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  42 	Rep:  2 	Time: 0.112216     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  42 	Rep:  3 	Time: 0.112859     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  42 	Rep:  4 	Time: 0.116626     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  42 	Rep:  5 	Time: 0.110869     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  43 	Rep:  1 	Time: 0.115994     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  43 	Rep:  2 	Time: 0.122681     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  43 	Rep:  3 	Time: 0.112187     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  43 	Rep:  4 	Time: 0.128691     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  43 	Rep:  5 	Time: 0.112689     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  44 	Rep:  1 	Time: 0.117934     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  44 	Rep:  2 	Time: 0.109047     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  44 	Rep:  3 	Time: 0.120806     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  44 	Rep:  4 	Time: 0.123107     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  44 	Rep:  5 	Time: 0.113631     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  45 	Rep:  1 	Time: 0.105916     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  45 	Rep:  2 	Time: 0.132544     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  45 	Rep:  3 	Time: 0.121783     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  45 	Rep:  4 	Time: 0.112549     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  45 	Rep:  5 	Time: 0.116976     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  46 	Rep:  1 	Time: 0.112623     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  46 	Rep:  2 	Time: 0.121955     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  46 	Rep:  3 	Time: 0.118874     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  46 	Rep:  4 	Time: 0.118369     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  46 	Rep:  5 	Time: 0.127182     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  47 	Rep:  1 	Time: 0.131364     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  47 	Rep:  2 	Time: 0.110921     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  47 	Rep:  3 	Time: 0.114989     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  47 	Rep:  4 	Time: 0.119861     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  47 	Rep:  5 	Time: 0.119910     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  48 	Rep:  1 	Time: 0.118594     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  48 	Rep:  2 	Time: 0.121673     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  48 	Rep:  3 	Time: 0.123366     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  48 	Rep:  4 	Time: 0.112957     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  48 	Rep:  5 	Time: 0.102762     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  49 	Rep:  1 	Time: 0.126825     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  49 	Rep:  2 	Time: 0.105842     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  49 	Rep:  3 	Time: 0.125411     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  49 	Rep:  4 	Time: 0.116311     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  49 	Rep:  5 	Time: 0.107235     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  50 	Rep:  1 	Time: 0.114648     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  50 	Rep:  2 	Time: 0.115435     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  50 	Rep:  3 	Time: 0.103578     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  50 	Rep:  4 	Time: 0.105542     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  50 	Rep:  5 	Time: 0.111561     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  51 	Rep:  1 	Time: 0.117252     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  51 	Rep:  2 	Time: 0.116399     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  51 	Rep:  3 	Time: 0.123014     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  51 	Rep:  4 	Time: 0.107320     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  51 	Rep:  5 	Time: 0.111636     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  52 	Rep:  1 	Time: 0.118803     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  52 	Rep:  2 	Time: 0.118226     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  52 	Rep:  3 	Time: 0.115500     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  52 	Rep:  4 	Time: 0.117477     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  52 	Rep:  5 	Time: 0.116198     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  53 	Rep:  1 	Time: 0.110107     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  53 	Rep:  2 	Time: 0.115650     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  53 	Rep:  3 	Time: 0.116676     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  53 	Rep:  4 	Time: 0.103240     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  53 	Rep:  5 	Time: 0.110304     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  54 	Rep:  1 	Time: 0.104744     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  54 	Rep:  2 	Time: 0.119428     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  54 	Rep:  3 	Time: 0.123269     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  54 	Rep:  4 	Time: 0.120092     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  54 	Rep:  5 	Time: 0.124318     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  55 	Rep:  1 	Time: 0.108042     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  55 	Rep:  2 	Time: 0.121816     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  55 	Rep:  3 	Time: 0.118499     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  55 	Rep:  4 	Time: 0.118089     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  55 	Rep:  5 	Time: 0.121169     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  56 	Rep:  1 	Time: 0.103825     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  56 	Rep:  2 	Time: 0.128720     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  56 	Rep:  3 	Time: 0.128004     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  56 	Rep:  4 	Time: 0.120762     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  56 	Rep:  5 	Time: 0.101342     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  57 	Rep:  1 	Time: 0.106614     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  57 	Rep:  2 	Time: 0.105581     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  57 	Rep:  3 	Time: 0.104353     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  57 	Rep:  4 	Time: 0.114985     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  57 	Rep:  5 	Time: 0.111281     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  58 	Rep:  1 	Time: 0.110436     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  58 	Rep:  2 	Time: 0.119310     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  58 	Rep:  3 	Time: 0.114289     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  58 	Rep:  4 	Time: 0.110808     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  58 	Rep:  5 	Time: 0.107620     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  59 	Rep:  1 	Time: 0.104090     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  59 	Rep:  2 	Time: 0.122520     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  59 	Rep:  3 	Time: 0.110648     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  59 	Rep:  4 	Time: 0.119975     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  59 	Rep:  5 	Time: 0.108468     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  60 	Rep:  1 	Time: 0.127981     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  60 	Rep:  2 	Time: 0.110273     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  60 	Rep:  3 	Time: 0.120681     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  60 	Rep:  4 	Time: 0.119229     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  60 	Rep:  5 	Time: 0.109108     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  61 	Rep:  1 	Time: 0.121691     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  61 	Rep:  2 	Time: 0.100608     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  61 	Rep:  3 	Time: 0.112867     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  61 	Rep:  4 	Time: 0.109100     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  61 	Rep:  5 	Time: 0.102427     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  62 	Rep:  1 	Time: 0.102432     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  62 	Rep:  2 	Time: 0.113574     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  62 	Rep:  3 	Time: 0.113265     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  62 	Rep:  4 	Time: 0.119432     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  62 	Rep:  5 	Time: 0.109757     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  63 	Rep:  1 	Time: 0.119874     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  63 	Rep:  2 	Time: 0.116072     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  63 	Rep:  3 	Time: 0.108227     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  63 	Rep:  4 	Time: 0.108724     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  63 	Rep:  5 	Time: 0.100925     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  64 	Rep:  1 	Time: 0.110561     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  64 	Rep:  2 	Time: 0.109675     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  64 	Rep:  3 	Time: 0.109200     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  64 	Rep:  4 	Time: 0.102465     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  64 	Rep:  5 	Time: 0.104317     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  65 	Rep:  1 	Time: 0.105586     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  65 	Rep:  2 	Time: 0.122247     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  65 	Rep:  3 	Time: 0.102189     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  65 	Rep:  4 	Time: 0.103802     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  65 	Rep:  5 	Time: 0.103799     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  66 	Rep:  1 	Time: 0.111046     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  66 	Rep:  2 	Time: 0.115412     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  66 	Rep:  3 	Time: 0.119141     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  66 	Rep:  4 	Time: 0.118160     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  66 	Rep:  5 	Time: 0.115608     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  67 	Rep:  1 	Time: 0.107828     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  67 	Rep:  2 	Time: 0.105461     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  67 	Rep:  3 	Time: 0.126001     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  67 	Rep:  4 	Time: 0.120954     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  67 	Rep:  5 	Time: 0.110967     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  68 	Rep:  1 	Time: 0.127891     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  68 	Rep:  2 	Time: 0.117934     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  68 	Rep:  3 	Time: 0.116553     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  68 	Rep:  4 	Time: 0.108302     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  68 	Rep:  5 	Time: 0.121057     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  69 	Rep:  1 	Time: 0.116311     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  69 	Rep:  2 	Time: 0.121527     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  69 	Rep:  3 	Time: 0.118258     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  69 	Rep:  4 	Time: 0.104111     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  69 	Rep:  5 	Time: 0.118822     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  70 	Rep:  1 	Time: 0.121908     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  70 	Rep:  2 	Time: 0.108953     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  70 	Rep:  3 	Time: 0.111206     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  70 	Rep:  4 	Time: 0.116897     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  70 	Rep:  5 	Time: 0.108670     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  71 	Rep:  1 	Time: 0.118165     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  71 	Rep:  2 	Time: 0.113208     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  71 	Rep:  3 	Time: 0.107947     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  71 	Rep:  4 	Time: 0.108297     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  71 	Rep:  5 	Time: 0.117781     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  72 	Rep:  1 	Time: 0.116034     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  72 	Rep:  2 	Time: 0.114803     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  72 	Rep:  3 	Time: 0.111284     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  72 	Rep:  4 	Time: 0.115491     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  72 	Rep:  5 	Time: 0.102041     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  73 	Rep:  1 	Time: 0.122653     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  73 	Rep:  2 	Time: 0.106739     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  73 	Rep:  3 	Time: 0.119695     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  73 	Rep:  4 	Time: 0.136432     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  73 	Rep:  5 	Time: 0.113515     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  74 	Rep:  1 	Time: 0.114804     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  74 	Rep:  2 	Time: 0.110146     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  74 	Rep:  3 	Time: 0.115924     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  74 	Rep:  4 	Time: 0.120694     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  74 	Rep:  5 	Time: 0.120245     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  75 	Rep:  1 	Time: 0.114343     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  75 	Rep:  2 	Time: 0.097999     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  75 	Rep:  3 	Time: 0.113064     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  75 	Rep:  4 	Time: 0.120477     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  75 	Rep:  5 	Time: 0.106970     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  76 	Rep:  1 	Time: 0.115650     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  76 	Rep:  2 	Time: 0.118191     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  76 	Rep:  3 	Time: 0.113120     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  76 	Rep:  4 	Time: 0.112470     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  76 	Rep:  5 	Time: 0.109156     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  77 	Rep:  1 	Time: 0.105801     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  77 	Rep:  2 	Time: 0.128629     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  77 	Rep:  3 	Time: 0.126770     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  77 	Rep:  4 	Time: 0.121598     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  77 	Rep:  5 	Time: 0.122478     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  78 	Rep:  1 	Time: 0.121521     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  78 	Rep:  2 	Time: 0.105833     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  78 	Rep:  3 	Time: 0.113551     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  78 	Rep:  4 	Time: 0.113580     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  78 	Rep:  5 	Time: 0.129605     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  79 	Rep:  1 	Time: 0.115425     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  79 	Rep:  2 	Time: 0.123169     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  79 	Rep:  3 	Time: 0.119416     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  79 	Rep:  4 	Time: 0.117855     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  79 	Rep:  5 	Time: 0.114448     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  80 	Rep:  1 	Time: 0.029057     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  80 	Rep:  2 	Time: 0.029621     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  80 	Rep:  3 	Time: 0.028607     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  80 	Rep:  4 	Time: 0.028761     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  80 	Rep:  5 	Time: 0.028792     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  81 	Rep:  1 	Time: 0.028715     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  81 	Rep:  2 	Time: 0.028704     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  81 	Rep:  3 	Time: 0.028747     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  81 	Rep:  4 	Time: 0.028782     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  81 	Rep:  5 	Time: 0.028949     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  82 	Rep:  1 	Time: 0.028962     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  82 	Rep:  2 	Time: 0.028621     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  82 	Rep:  3 	Time: 0.028937     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  82 	Rep:  4 	Time: 0.029271     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  82 	Rep:  5 	Time: 0.028704     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  83 	Rep:  1 	Time: 0.028725     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  83 	Rep:  2 	Time: 0.028682     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  83 	Rep:  3 	Time: 0.028825     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  83 	Rep:  4 	Time: 0.028762     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  83 	Rep:  5 	Time: 0.028619     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  84 	Rep:  1 	Time: 0.028795     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  84 	Rep:  2 	Time: 0.028778     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  84 	Rep:  3 	Time: 0.028940     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  84 	Rep:  4 	Time: 0.028969     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  84 	Rep:  5 	Time: 0.028848     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  85 	Rep:  1 	Time: 0.028891     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  85 	Rep:  2 	Time: 0.028669     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  85 	Rep:  3 	Time: 0.029229     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  85 	Rep:  4 	Time: 0.028938     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  85 	Rep:  5 	Time: 0.028627     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  86 	Rep:  1 	Time: 0.028792     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  86 	Rep:  2 	Time: 0.028904     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  86 	Rep:  3 	Time: 0.028907     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  86 	Rep:  4 	Time: 0.028769     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  86 	Rep:  5 	Time: 0.028878     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  87 	Rep:  1 	Time: 0.029525     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  87 	Rep:  2 	Time: 0.028997     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  87 	Rep:  3 	Time: 0.029730     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  87 	Rep:  4 	Time: 0.029249     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  87 	Rep:  5 	Time: 0.028932     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  88 	Rep:  1 	Time: 0.028791     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  88 	Rep:  2 	Time: 0.029025     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  88 	Rep:  3 	Time: 0.029009     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  88 	Rep:  4 	Time: 0.028808     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  88 	Rep:  5 	Time: 0.028841     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  89 	Rep:  1 	Time: 0.028860     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  89 	Rep:  2 	Time: 0.028981     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  89 	Rep:  3 	Time: 0.028543     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  89 	Rep:  4 	Time: 0.029064     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  89 	Rep:  5 	Time: 0.028646     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  90 	Rep:  1 	Time: 0.028891     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  90 	Rep:  2 	Time: 0.028852     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  90 	Rep:  3 	Time: 0.028968     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  90 	Rep:  4 	Time: 0.028894     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  90 	Rep:  5 	Time: 0.028775     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  91 	Rep:  1 	Time: 0.029141     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  91 	Rep:  2 	Time: 0.028969     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  91 	Rep:  3 	Time: 0.028726     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  91 	Rep:  4 	Time: 0.028889     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  91 	Rep:  5 	Time: 0.028863     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  92 	Rep:  1 	Time: 0.028995     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  92 	Rep:  2 	Time: 0.028640     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  92 	Rep:  3 	Time: 0.028864     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  92 	Rep:  4 	Time: 0.029089     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  92 	Rep:  5 	Time: 0.028887     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  93 	Rep:  1 	Time: 0.028903     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  93 	Rep:  2 	Time: 0.028745     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  93 	Rep:  3 	Time: 0.028985     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  93 	Rep:  4 	Time: 0.029138     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  93 	Rep:  5 	Time: 0.028815     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  94 	Rep:  1 	Time: 0.029049     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  94 	Rep:  2 	Time: 0.028894     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  94 	Rep:  3 	Time: 0.028797     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  94 	Rep:  4 	Time: 0.028555     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  94 	Rep:  5 	Time: 0.028872     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  95 	Rep:  1 	Time: 0.028888     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  95 	Rep:  2 	Time: 0.028564     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  95 	Rep:  3 	Time: 0.029056     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  95 	Rep:  4 	Time: 0.028865     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  95 	Rep:  5 	Time: 0.028775     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  96 	Rep:  1 	Time: 0.028976     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  96 	Rep:  2 	Time: 0.029177     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  96 	Rep:  3 	Time: 0.028951     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  96 	Rep:  4 	Time: 0.028785     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  96 	Rep:  5 	Time: 0.028819     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  97 	Rep:  1 	Time: 0.028912     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  97 	Rep:  2 	Time: 0.028775     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  97 	Rep:  3 	Time: 0.028831     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  97 	Rep:  4 	Time: 0.029006     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  97 	Rep:  5 	Time: 0.029028     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  98 	Rep:  1 	Time: 0.028822     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  98 	Rep:  2 	Time: 0.028964     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  98 	Rep:  3 	Time: 0.028948     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  98 	Rep:  4 	Time: 0.028955     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  98 	Rep:  5 	Time: 0.028953     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  99 	Rep:  1 	Time: 0.029035     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  99 	Rep:  2 	Time: 0.028941     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  99 	Rep:  3 	Time: 0.028729     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  99 	Rep:  4 	Time: 0.028990     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  99 	Rep:  5 	Time: 0.029023     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  100 	Rep:  1 	Time: 0.029087     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  100 	Rep:  2 	Time: 0.029081     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  100 	Rep:  3 	Time: 0.028915     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  100 	Rep:  4 	Time: 0.028793     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  100 	Rep:  5 	Time: 0.028804     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  101 	Rep:  1 	Time: 0.028889     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  101 	Rep:  2 	Time: 0.028961     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  101 	Rep:  3 	Time: 0.028608     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  101 	Rep:  4 	Time: 0.029085     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  101 	Rep:  5 	Time: 0.028971     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  102 	Rep:  1 	Time: 0.028976     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  102 	Rep:  2 	Time: 0.028853     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  102 	Rep:  3 	Time: 0.028821     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  102 	Rep:  4 	Time: 0.028832     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  102 	Rep:  5 	Time: 0.028930     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  103 	Rep:  1 	Time: 0.028803     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  103 	Rep:  2 	Time: 0.028949     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  103 	Rep:  3 	Time: 0.028742     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  103 	Rep:  4 	Time: 0.029070     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  103 	Rep:  5 	Time: 0.028942     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  104 	Rep:  1 	Time: 0.028854     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  104 	Rep:  2 	Time: 0.029163     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  104 	Rep:  3 	Time: 0.028762     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  104 	Rep:  4 	Time: 0.028835     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  104 	Rep:  5 	Time: 0.029069     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  105 	Rep:  1 	Time: 0.028937     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  105 	Rep:  2 	Time: 0.028888     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  105 	Rep:  3 	Time: 0.028802     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  105 	Rep:  4 	Time: 0.028903     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  105 	Rep:  5 	Time: 0.028954     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  106 	Rep:  1 	Time: 0.028918     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  106 	Rep:  2 	Time: 0.028900     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  106 	Rep:  3 	Time: 0.029211     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  106 	Rep:  4 	Time: 0.028831     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  106 	Rep:  5 	Time: 0.028972     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  107 	Rep:  1 	Time: 0.029290     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  107 	Rep:  2 	Time: 0.028942     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  107 	Rep:  3 	Time: 0.028716     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  107 	Rep:  4 	Time: 0.028790     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  107 	Rep:  5 	Time: 0.028831     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  108 	Rep:  1 	Time: 0.028991     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  108 	Rep:  2 	Time: 0.028736     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  108 	Rep:  3 	Time: 0.028859     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  108 	Rep:  4 	Time: 0.028879     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  108 	Rep:  5 	Time: 0.028908     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  109 	Rep:  1 	Time: 0.028868     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  109 	Rep:  2 	Time: 0.028904     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  109 	Rep:  3 	Time: 0.028917     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  109 	Rep:  4 	Time: 0.028810     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  109 	Rep:  5 	Time: 0.028933     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  110 	Rep:  1 	Time: 0.028995     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  110 	Rep:  2 	Time: 0.028773     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  110 	Rep:  3 	Time: 0.028815     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  110 	Rep:  4 	Time: 0.028888     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  110 	Rep:  5 	Time: 0.028871     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  111 	Rep:  1 	Time: 0.028915     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  111 	Rep:  2 	Time: 0.029032     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  111 	Rep:  3 	Time: 0.028887     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  111 	Rep:  4 	Time: 0.029067     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  111 	Rep:  5 	Time: 0.029105     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  112 	Rep:  1 	Time: 0.028793     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  112 	Rep:  2 	Time: 0.028729     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  112 	Rep:  3 	Time: 0.028880     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  112 	Rep:  4 	Time: 0.029029     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  112 	Rep:  5 	Time: 0.028757     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  113 	Rep:  1 	Time: 0.029069     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  113 	Rep:  2 	Time: 0.028692     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  113 	Rep:  3 	Time: 0.028771     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  113 	Rep:  4 	Time: 0.028574     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  113 	Rep:  5 	Time: 0.028899     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  114 	Rep:  1 	Time: 0.029021     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  114 	Rep:  2 	Time: 0.029093     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  114 	Rep:  3 	Time: 0.028843     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  114 	Rep:  4 	Time: 0.028823     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  114 	Rep:  5 	Time: 0.028717     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  115 	Rep:  1 	Time: 0.028881     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  115 	Rep:  2 	Time: 0.028905     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  115 	Rep:  3 	Time: 0.029195     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  115 	Rep:  4 	Time: 0.030850     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  115 	Rep:  5 	Time: 0.029265     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  116 	Rep:  1 	Time: 0.028669     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  116 	Rep:  2 	Time: 0.028721     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  116 	Rep:  3 	Time: 0.028909     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  116 	Rep:  4 	Time: 0.028851     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  116 	Rep:  5 	Time: 0.029062     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  117 	Rep:  1 	Time: 0.028928     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  117 	Rep:  2 	Time: 0.028806     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  117 	Rep:  3 	Time: 0.028987     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  117 	Rep:  4 	Time: 0.028888     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  117 	Rep:  5 	Time: 0.029243     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  118 	Rep:  1 	Time: 0.028996     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  118 	Rep:  2 	Time: 0.028911     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  118 	Rep:  3 	Time: 0.029111     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  118 	Rep:  4 	Time: 0.028907     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  118 	Rep:  5 	Time: 0.028989     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  119 	Rep:  1 	Time: 0.028989     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  119 	Rep:  2 	Time: 0.028864     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  119 	Rep:  3 	Time: 0.028778     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  119 	Rep:  4 	Time: 0.028765     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  119 	Rep:  5 	Time: 0.028950     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  120 	Rep:  1 	Time: 0.029025     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  120 	Rep:  2 	Time: 0.028834     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  120 	Rep:  3 	Time: 0.028945     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  120 	Rep:  4 	Time: 0.029073     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  120 	Rep:  5 	Time: 0.028958     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  121 	Rep:  1 	Time: 0.028899     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  121 	Rep:  2 	Time: 0.029129     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  121 	Rep:  3 	Time: 0.029158     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  121 	Rep:  4 	Time: 0.028956     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  121 	Rep:  5 	Time: 0.028824     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  122 	Rep:  1 	Time: 0.028823     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  122 	Rep:  2 	Time: 0.029086     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  122 	Rep:  3 	Time: 0.028783     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  122 	Rep:  4 	Time: 0.028793     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  122 	Rep:  5 	Time: 0.028803     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  123 	Rep:  1 	Time: 0.028796     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  123 	Rep:  2 	Time: 0.029202     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  123 	Rep:  3 	Time: 0.028903     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  123 	Rep:  4 	Time: 0.029106     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  123 	Rep:  5 	Time: 0.028857     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  124 	Rep:  1 	Time: 0.029057     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  124 	Rep:  2 	Time: 0.029156     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  124 	Rep:  3 	Time: 0.028899     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  124 	Rep:  4 	Time: 0.028771     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  124 	Rep:  5 	Time: 0.028761     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  125 	Rep:  1 	Time: 0.028892     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  125 	Rep:  2 	Time: 0.029050     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  125 	Rep:  3 	Time: 0.028769     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  125 	Rep:  4 	Time: 0.028887     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  125 	Rep:  5 	Time: 0.028937     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  126 	Rep:  1 	Time: 0.028939     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  126 	Rep:  2 	Time: 0.028825     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  126 	Rep:  3 	Time: 0.029022     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  126 	Rep:  4 	Time: 0.029070     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  126 	Rep:  5 	Time: 0.028930     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  127 	Rep:  1 	Time: 0.028837     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  127 	Rep:  2 	Time: 0.028855     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  127 	Rep:  3 	Time: 0.028918     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  127 	Rep:  4 	Time: 0.028879     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  127 	Rep:  5 	Time: 0.028787     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  128 	Rep:  1 	Time: 0.028610     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  128 	Rep:  2 	Time: 0.028799     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  128 	Rep:  3 	Time: 0.028982     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  128 	Rep:  4 	Time: 0.028914     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  128 	Rep:  5 	Time: 0.028906     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  129 	Rep:  1 	Time: 0.028878     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  129 	Rep:  2 	Time: 0.028976     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  129 	Rep:  3 	Time: 0.028856     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  129 	Rep:  4 	Time: 0.028919     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  129 	Rep:  5 	Time: 0.028997     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  130 	Rep:  1 	Time: 0.028920     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  130 	Rep:  2 	Time: 0.028936     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  130 	Rep:  3 	Time: 0.028999     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  130 	Rep:  4 	Time: 0.028784     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  130 	Rep:  5 	Time: 0.028898     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  131 	Rep:  1 	Time: 0.029335     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  131 	Rep:  2 	Time: 0.029039     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  131 	Rep:  3 	Time: 0.028858     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  131 	Rep:  4 	Time: 0.028894     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  131 	Rep:  5 	Time: 0.028789     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  132 	Rep:  1 	Time: 0.028853     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  132 	Rep:  2 	Time: 0.028767     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  132 	Rep:  3 	Time: 0.028827     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  132 	Rep:  4 	Time: 0.028830     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  132 	Rep:  5 	Time: 0.028982     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  133 	Rep:  1 	Time: 0.028845     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  133 	Rep:  2 	Time: 0.028952     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  133 	Rep:  3 	Time: 0.029146     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  133 	Rep:  4 	Time: 0.028990     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  133 	Rep:  5 	Time: 0.028820     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  134 	Rep:  1 	Time: 0.029007     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  134 	Rep:  2 	Time: 0.029004     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  134 	Rep:  3 	Time: 0.029117     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  134 	Rep:  4 	Time: 0.028757     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  134 	Rep:  5 	Time: 0.028953     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  135 	Rep:  1 	Time: 0.028790     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  135 	Rep:  2 	Time: 0.028963     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  135 	Rep:  3 	Time: 0.028870     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  135 	Rep:  4 	Time: 0.028869     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  135 	Rep:  5 	Time: 0.028782     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  136 	Rep:  1 	Time: 0.028875     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  136 	Rep:  2 	Time: 0.029238     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  136 	Rep:  3 	Time: 0.028764     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  136 	Rep:  4 	Time: 0.028713     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  136 	Rep:  5 	Time: 0.028705     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  137 	Rep:  1 	Time: 0.028801     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  137 	Rep:  2 	Time: 0.028827     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  137 	Rep:  3 	Time: 0.028812     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  137 	Rep:  4 	Time: 0.029106     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  137 	Rep:  5 	Time: 0.028816     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  138 	Rep:  1 	Time: 0.028980     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  138 	Rep:  2 	Time: 0.028722     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  138 	Rep:  3 	Time: 0.028859     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  138 	Rep:  4 	Time: 0.028766     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  138 	Rep:  5 	Time: 0.029003     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  139 	Rep:  1 	Time: 0.028839     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  139 	Rep:  2 	Time: 0.028894     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  139 	Rep:  3 	Time: 0.028774     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  139 	Rep:  4 	Time: 0.028892     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  139 	Rep:  5 	Time: 0.028984     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  140 	Rep:  1 	Time: 0.029139     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  140 	Rep:  2 	Time: 0.028850     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  140 	Rep:  3 	Time: 0.028872     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  140 	Rep:  4 	Time: 0.028908     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  140 	Rep:  5 	Time: 0.029028     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  141 	Rep:  1 	Time: 0.028834     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  141 	Rep:  2 	Time: 0.028961     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  141 	Rep:  3 	Time: 0.028867     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  141 	Rep:  4 	Time: 0.028852     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  141 	Rep:  5 	Time: 0.029019     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  142 	Rep:  1 	Time: 0.028935     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  142 	Rep:  2 	Time: 0.029401     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  142 	Rep:  3 	Time: 0.028868     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  142 	Rep:  4 	Time: 0.028837     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  142 	Rep:  5 	Time: 0.029248     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  143 	Rep:  1 	Time: 0.029367     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  143 	Rep:  2 	Time: 0.030158     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  143 	Rep:  3 	Time: 0.028972     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  143 	Rep:  4 	Time: 0.028968     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  143 	Rep:  5 	Time: 0.028790     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  144 	Rep:  1 	Time: 0.028807     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  144 	Rep:  2 	Time: 0.029051     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  144 	Rep:  3 	Time: 0.029135     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  144 	Rep:  4 	Time: 0.028917     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  144 	Rep:  5 	Time: 0.028838     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  145 	Rep:  1 	Time: 0.028801     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  145 	Rep:  2 	Time: 0.028897     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  145 	Rep:  3 	Time: 0.028749     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  145 	Rep:  4 	Time: 0.028840     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  145 	Rep:  5 	Time: 0.028909     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  146 	Rep:  1 	Time: 0.028905     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  146 	Rep:  2 	Time: 0.028805     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  146 	Rep:  3 	Time: 0.028754     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  146 	Rep:  4 	Time: 0.028643     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  146 	Rep:  5 	Time: 0.029142     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  147 	Rep:  1 	Time: 0.028971     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  147 	Rep:  2 	Time: 0.028828     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  147 	Rep:  3 	Time: 0.028743     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  147 	Rep:  4 	Time: 0.029191     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  147 	Rep:  5 	Time: 0.028792     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  148 	Rep:  1 	Time: 0.028775     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  148 	Rep:  2 	Time: 0.028880     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  148 	Rep:  3 	Time: 0.028928     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  148 	Rep:  4 	Time: 0.028866     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  148 	Rep:  5 	Time: 0.028777     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  149 	Rep:  1 	Time: 0.028839     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  149 	Rep:  2 	Time: 0.029007     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  149 	Rep:  3 	Time: 0.029102     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  149 	Rep:  4 	Time: 0.028837     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  149 	Rep:  5 	Time: 0.028907     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  150 	Rep:  1 	Time: 0.028873     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  150 	Rep:  2 	Time: 0.029072     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  150 	Rep:  3 	Time: 0.028869     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  150 	Rep:  4 	Time: 0.028816     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  150 	Rep:  5 	Time: 0.028952     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  151 	Rep:  1 	Time: 0.028855     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  151 	Rep:  2 	Time: 0.029283     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  151 	Rep:  3 	Time: 0.028961     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  151 	Rep:  4 	Time: 0.028943     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  151 	Rep:  5 	Time: 0.028705     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  152 	Rep:  1 	Time: 0.028871     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  152 	Rep:  2 	Time: 0.028873     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  152 	Rep:  3 	Time: 0.028720     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  152 	Rep:  4 	Time: 0.028843     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  152 	Rep:  5 	Time: 0.028758     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  153 	Rep:  1 	Time: 0.028788     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  153 	Rep:  2 	Time: 0.028796     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  153 	Rep:  3 	Time: 0.028947     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  153 	Rep:  4 	Time: 0.028889     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  153 	Rep:  5 	Time: 0.028827     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  154 	Rep:  1 	Time: 0.029224     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  154 	Rep:  2 	Time: 0.028729     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  154 	Rep:  3 	Time: 0.029152     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  154 	Rep:  4 	Time: 0.028859     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  154 	Rep:  5 	Time: 0.028924     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  155 	Rep:  1 	Time: 0.028733     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  155 	Rep:  2 	Time: 0.029020     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  155 	Rep:  3 	Time: 0.028788     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  155 	Rep:  4 	Time: 0.028768     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  155 	Rep:  5 	Time: 0.028923     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  156 	Rep:  1 	Time: 0.028861     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  156 	Rep:  2 	Time: 0.029004     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  156 	Rep:  3 	Time: 0.029214     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  156 	Rep:  4 	Time: 0.028934     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  156 	Rep:  5 	Time: 0.029074     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  157 	Rep:  1 	Time: 0.028627     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  157 	Rep:  2 	Time: 0.028902     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  157 	Rep:  3 	Time: 0.028832     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  157 	Rep:  4 	Time: 0.028858     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  157 	Rep:  5 	Time: 0.028844     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  158 	Rep:  1 	Time: 0.028993     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  158 	Rep:  2 	Time: 0.028992     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  158 	Rep:  3 	Time: 0.028960     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  158 	Rep:  4 	Time: 0.029040     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  158 	Rep:  5 	Time: 0.028882     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  159 	Rep:  1 	Time: 0.029032     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  159 	Rep:  2 	Time: 0.029067     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  159 	Rep:  3 	Time: 0.028889     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  159 	Rep:  4 	Time: 0.029041     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  159 	Rep:  5 	Time: 0.028807     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  160 	Rep:  1 	Time: 0.028859     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  160 	Rep:  2 	Time: 0.028682     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  160 	Rep:  3 	Time: 0.029107     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  160 	Rep:  4 	Time: 0.028779     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  160 	Rep:  5 	Time: 0.028851     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  161 	Rep:  1 	Time: 0.028756     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  161 	Rep:  2 	Time: 0.029077     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  161 	Rep:  3 	Time: 0.028799     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  161 	Rep:  4 	Time: 0.029139     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  161 	Rep:  5 	Time: 0.028813     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  162 	Rep:  1 	Time: 0.028938     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  162 	Rep:  2 	Time: 0.028939     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  162 	Rep:  3 	Time: 0.028864     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  162 	Rep:  4 	Time: 0.028738     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  162 	Rep:  5 	Time: 0.029076     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  163 	Rep:  1 	Time: 0.029160     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  163 	Rep:  2 	Time: 0.028780     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  163 	Rep:  3 	Time: 0.028884     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  163 	Rep:  4 	Time: 0.028909     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  163 	Rep:  5 	Time: 0.028885     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  164 	Rep:  1 	Time: 0.028962     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  164 	Rep:  2 	Time: 0.028824     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  164 	Rep:  3 	Time: 0.029045     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  164 	Rep:  4 	Time: 0.028857     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  164 	Rep:  5 	Time: 0.028854     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  165 	Rep:  1 	Time: 0.028821     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  165 	Rep:  2 	Time: 0.028984     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  165 	Rep:  3 	Time: 0.028826     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  165 	Rep:  4 	Time: 0.028792     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  165 	Rep:  5 	Time: 0.028829     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  166 	Rep:  1 	Time: 0.028947     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  166 	Rep:  2 	Time: 0.028733     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  166 	Rep:  3 	Time: 0.028797     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  166 	Rep:  4 	Time: 0.028817     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  166 	Rep:  5 	Time: 0.028978     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  167 	Rep:  1 	Time: 0.028832     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  167 	Rep:  2 	Time: 0.029048     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  167 	Rep:  3 	Time: 0.028786     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  167 	Rep:  4 	Time: 0.029003     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  167 	Rep:  5 	Time: 0.028917     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  168 	Rep:  1 	Time: 0.029013     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  168 	Rep:  2 	Time: 0.029031     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  168 	Rep:  3 	Time: 0.028890     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  168 	Rep:  4 	Time: 0.028897     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  168 	Rep:  5 	Time: 0.028960     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  169 	Rep:  1 	Time: 0.029054     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  169 	Rep:  2 	Time: 0.028951     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  169 	Rep:  3 	Time: 0.028797     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  169 	Rep:  4 	Time: 0.028813     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  169 	Rep:  5 	Time: 0.028994     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  170 	Rep:  1 	Time: 0.028730     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  170 	Rep:  2 	Time: 0.028896     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  170 	Rep:  3 	Time: 0.028852     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  170 	Rep:  4 	Time: 0.028789     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  170 	Rep:  5 	Time: 0.029214     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  171 	Rep:  1 	Time: 0.029618     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  171 	Rep:  2 	Time: 0.029499     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  171 	Rep:  3 	Time: 0.029496     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  171 	Rep:  4 	Time: 0.028899     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  171 	Rep:  5 	Time: 0.028956     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  172 	Rep:  1 	Time: 0.028806     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  172 	Rep:  2 	Time: 0.029053     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  172 	Rep:  3 	Time: 0.028836     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  172 	Rep:  4 	Time: 0.028869     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  172 	Rep:  5 	Time: 0.029015     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  173 	Rep:  1 	Time: 0.028899     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  173 	Rep:  2 	Time: 0.028929     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  173 	Rep:  3 	Time: 0.029002     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  173 	Rep:  4 	Time: 0.028876     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  173 	Rep:  5 	Time: 0.028897     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  174 	Rep:  1 	Time: 0.028882     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  174 	Rep:  2 	Time: 0.028924     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  174 	Rep:  3 	Time: 0.028960     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  174 	Rep:  4 	Time: 0.033019     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  174 	Rep:  5 	Time: 0.028999     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  175 	Rep:  1 	Time: 0.028934     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  175 	Rep:  2 	Time: 0.029004     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  175 	Rep:  3 	Time: 0.028921     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  175 	Rep:  4 	Time: 0.028979     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  175 	Rep:  5 	Time: 0.029072     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  176 	Rep:  1 	Time: 0.029012     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  176 	Rep:  2 	Time: 0.028859     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  176 	Rep:  3 	Time: 0.028822     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  176 	Rep:  4 	Time: 0.028893     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  176 	Rep:  5 	Time: 0.028841     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  177 	Rep:  1 	Time: 0.028728     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  177 	Rep:  2 	Time: 0.028807     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  177 	Rep:  3 	Time: 0.028823     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  177 	Rep:  4 	Time: 0.029017     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  177 	Rep:  5 	Time: 0.028845     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  178 	Rep:  1 	Time: 0.028842     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  178 	Rep:  2 	Time: 0.028797     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  178 	Rep:  3 	Time: 0.028993     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  178 	Rep:  4 	Time: 0.028761     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  178 	Rep:  5 	Time: 0.028886     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  179 	Rep:  1 	Time: 0.028727     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  179 	Rep:  2 	Time: 0.029224     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  179 	Rep:  3 	Time: 0.028795     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  179 	Rep:  4 	Time: 0.028808     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  179 	Rep:  5 	Time: 0.028828     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  180 	Rep:  1 	Time: 0.028719     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  180 	Rep:  2 	Time: 0.028798     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  180 	Rep:  3 	Time: 0.028756     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  180 	Rep:  4 	Time: 0.028894     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  180 	Rep:  5 	Time: 0.028959     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  181 	Rep:  1 	Time: 0.028871     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  181 	Rep:  2 	Time: 0.028776     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  181 	Rep:  3 	Time: 0.028963     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  181 	Rep:  4 	Time: 0.028933     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  181 	Rep:  5 	Time: 0.029565     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  182 	Rep:  1 	Time: 0.028946     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  182 	Rep:  2 	Time: 0.028994     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  182 	Rep:  3 	Time: 0.028967     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  182 	Rep:  4 	Time: 0.028798     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  182 	Rep:  5 	Time: 0.029026     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  183 	Rep:  1 	Time: 0.029028     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  183 	Rep:  2 	Time: 0.028830     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  183 	Rep:  3 	Time: 0.028848     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  183 	Rep:  4 	Time: 0.028834     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  183 	Rep:  5 	Time: 0.028971     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  184 	Rep:  1 	Time: 0.028917     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  184 	Rep:  2 	Time: 0.029059     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  184 	Rep:  3 	Time: 0.028804     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  184 	Rep:  4 	Time: 0.029023     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  184 	Rep:  5 	Time: 0.028649     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  185 	Rep:  1 	Time: 0.029136     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  185 	Rep:  2 	Time: 0.028765     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  185 	Rep:  3 	Time: 0.028788     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  185 	Rep:  4 	Time: 0.028773     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  185 	Rep:  5 	Time: 0.028799     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  186 	Rep:  1 	Time: 0.028788     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  186 	Rep:  2 	Time: 0.028805     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  186 	Rep:  3 	Time: 0.029064     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  186 	Rep:  4 	Time: 0.028764     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  186 	Rep:  5 	Time: 0.028890     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  187 	Rep:  1 	Time: 0.028947     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  187 	Rep:  2 	Time: 0.029112     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  187 	Rep:  3 	Time: 0.028832     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  187 	Rep:  4 	Time: 0.028781     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  187 	Rep:  5 	Time: 0.028911     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  188 	Rep:  1 	Time: 0.028968     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  188 	Rep:  2 	Time: 0.029020     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  188 	Rep:  3 	Time: 0.028729     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  188 	Rep:  4 	Time: 0.028747     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  188 	Rep:  5 	Time: 0.029065     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  189 	Rep:  1 	Time: 0.029074     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  189 	Rep:  2 	Time: 0.028809     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  189 	Rep:  3 	Time: 0.029048     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  189 	Rep:  4 	Time: 0.028959     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  189 	Rep:  5 	Time: 0.029002     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  190 	Rep:  1 	Time: 0.028991     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  190 	Rep:  2 	Time: 0.028839     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  190 	Rep:  3 	Time: 0.028882     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  190 	Rep:  4 	Time: 0.028911     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  190 	Rep:  5 	Time: 0.028903     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  191 	Rep:  1 	Time: 0.028867     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  191 	Rep:  2 	Time: 0.028836     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  191 	Rep:  3 	Time: 0.028938     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  191 	Rep:  4 	Time: 0.029005     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  191 	Rep:  5 	Time: 0.029034     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  192 	Rep:  1 	Time: 0.028861     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  192 	Rep:  2 	Time: 0.029006     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  192 	Rep:  3 	Time: 0.028880     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  192 	Rep:  4 	Time: 0.028886     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  192 	Rep:  5 	Time: 0.028840     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  193 	Rep:  1 	Time: 0.028886     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  193 	Rep:  2 	Time: 0.028864     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  193 	Rep:  3 	Time: 0.028841     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  193 	Rep:  4 	Time: 0.029041     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  193 	Rep:  5 	Time: 0.028963     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  194 	Rep:  1 	Time: 0.029090     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  194 	Rep:  2 	Time: 0.029025     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  194 	Rep:  3 	Time: 0.028721     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  194 	Rep:  4 	Time: 0.028726     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  194 	Rep:  5 	Time: 0.028652     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  195 	Rep:  1 	Time: 0.028761     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  195 	Rep:  2 	Time: 0.028652     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  195 	Rep:  3 	Time: 0.028719     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  195 	Rep:  4 	Time: 0.028933     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  195 	Rep:  5 	Time: 0.028800     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  196 	Rep:  1 	Time: 0.028867     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  196 	Rep:  2 	Time: 0.028546     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  196 	Rep:  3 	Time: 0.028829     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  196 	Rep:  4 	Time: 0.028636     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  196 	Rep:  5 	Time: 0.029010     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  197 	Rep:  1 	Time: 0.028813     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  197 	Rep:  2 	Time: 0.028964     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  197 	Rep:  3 	Time: 0.028658     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  197 	Rep:  4 	Time: 0.028696     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  197 	Rep:  5 	Time: 0.028788     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  198 	Rep:  1 	Time: 0.028828     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  198 	Rep:  2 	Time: 0.028755     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  198 	Rep:  3 	Time: 0.028874     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  198 	Rep:  4 	Time: 0.028696     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  198 	Rep:  5 	Time: 0.032654     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  199 	Rep:  1 	Time: 0.029601     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  199 	Rep:  2 	Time: 0.029099     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  199 	Rep:  3 	Time: 0.029326     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  199 	Rep:  4 	Time: 0.028914     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  199 	Rep:  5 	Time: 0.029089     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  200 	Rep:  1 	Time: 0.029423     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  200 	Rep:  2 	Time: 0.028822     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  200 	Rep:  3 	Time: 0.028787     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  200 	Rep:  4 	Time: 0.028721     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  200 	Rep:  5 	Time: 0.028852     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  201 	Rep:  1 	Time: 0.029271     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  201 	Rep:  2 	Time: 0.028864     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  201 	Rep:  3 	Time: 0.028745     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  201 	Rep:  4 	Time: 0.029002     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  201 	Rep:  5 	Time: 0.028969     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  202 	Rep:  1 	Time: 0.028424     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  202 	Rep:  2 	Time: 0.028822     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  202 	Rep:  3 	Time: 0.029030     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  202 	Rep:  4 	Time: 0.028913     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  202 	Rep:  5 	Time: 0.028808     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  203 	Rep:  1 	Time: 0.028829     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  203 	Rep:  2 	Time: 0.028885     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  203 	Rep:  3 	Time: 0.028931     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  203 	Rep:  4 	Time: 0.028873     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  203 	Rep:  5 	Time: 0.028800     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  204 	Rep:  1 	Time: 0.028950     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  204 	Rep:  2 	Time: 0.029096     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  204 	Rep:  3 	Time: 0.029080     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  204 	Rep:  4 	Time: 0.028775     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  204 	Rep:  5 	Time: 0.028828     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  205 	Rep:  1 	Time: 0.028922     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  205 	Rep:  2 	Time: 0.028980     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  205 	Rep:  3 	Time: 0.028938     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  205 	Rep:  4 	Time: 0.028789     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  205 	Rep:  5 	Time: 0.028910     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  206 	Rep:  1 	Time: 0.028976     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  206 	Rep:  2 	Time: 0.028787     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  206 	Rep:  3 	Time: 0.028771     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  206 	Rep:  4 	Time: 0.028623     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  206 	Rep:  5 	Time: 0.028855     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  207 	Rep:  1 	Time: 0.028690     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  207 	Rep:  2 	Time: 0.028650     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  207 	Rep:  3 	Time: 0.028756     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  207 	Rep:  4 	Time: 0.028996     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  207 	Rep:  5 	Time: 0.028677     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  208 	Rep:  1 	Time: 0.028855     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  208 	Rep:  2 	Time: 0.028685     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  208 	Rep:  3 	Time: 0.029130     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  208 	Rep:  4 	Time: 0.028804     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  208 	Rep:  5 	Time: 0.028822     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  209 	Rep:  1 	Time: 0.028588     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  209 	Rep:  2 	Time: 0.028875     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  209 	Rep:  3 	Time: 0.028631     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  209 	Rep:  4 	Time: 0.028927     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  209 	Rep:  5 	Time: 0.028778     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  210 	Rep:  1 	Time: 0.028872     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  210 	Rep:  2 	Time: 0.028957     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  210 	Rep:  3 	Time: 0.028860     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  210 	Rep:  4 	Time: 0.028768     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  210 	Rep:  5 	Time: 0.028898     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  211 	Rep:  1 	Time: 0.028805     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  211 	Rep:  2 	Time: 0.028824     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  211 	Rep:  3 	Time: 0.028946     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  211 	Rep:  4 	Time: 0.028990     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  211 	Rep:  5 	Time: 0.028802     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  212 	Rep:  1 	Time: 0.028802     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  212 	Rep:  2 	Time: 0.028962     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  212 	Rep:  3 	Time: 0.029100     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  212 	Rep:  4 	Time: 0.028781     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  212 	Rep:  5 	Time: 0.029079     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  213 	Rep:  1 	Time: 0.028781     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  213 	Rep:  2 	Time: 0.028750     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  213 	Rep:  3 	Time: 0.028906     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  213 	Rep:  4 	Time: 0.028816     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  213 	Rep:  5 	Time: 0.028961     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  214 	Rep:  1 	Time: 0.028871     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  214 	Rep:  2 	Time: 0.028877     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  214 	Rep:  3 	Time: 0.028972     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  214 	Rep:  4 	Time: 0.028784     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  214 	Rep:  5 	Time: 0.028955     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  215 	Rep:  1 	Time: 0.028829     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  215 	Rep:  2 	Time: 0.028978     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  215 	Rep:  3 	Time: 0.028726     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  215 	Rep:  4 	Time: 0.028857     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  215 	Rep:  5 	Time: 0.028944     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  216 	Rep:  1 	Time: 0.028987     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  216 	Rep:  2 	Time: 0.028863     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  216 	Rep:  3 	Time: 0.028837     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  216 	Rep:  4 	Time: 0.028847     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  216 	Rep:  5 	Time: 0.028859     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  217 	Rep:  1 	Time: 0.028715     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  217 	Rep:  2 	Time: 0.028972     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  217 	Rep:  3 	Time: 0.028960     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  217 	Rep:  4 	Time: 0.028828     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  217 	Rep:  5 	Time: 0.028701     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  218 	Rep:  1 	Time: 0.029166     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  218 	Rep:  2 	Time: 0.028841     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  218 	Rep:  3 	Time: 0.029055     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  218 	Rep:  4 	Time: 0.028850     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  218 	Rep:  5 	Time: 0.028951     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  219 	Rep:  1 	Time: 0.028789     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  219 	Rep:  2 	Time: 0.028978     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  219 	Rep:  3 	Time: 0.028855     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  219 	Rep:  4 	Time: 0.028769     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  219 	Rep:  5 	Time: 0.028812     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  220 	Rep:  1 	Time: 0.028997     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  220 	Rep:  2 	Time: 0.028730     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  220 	Rep:  3 	Time: 0.028770     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  220 	Rep:  4 	Time: 0.028794     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  220 	Rep:  5 	Time: 0.028961     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  221 	Rep:  1 	Time: 0.029124     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  221 	Rep:  2 	Time: 0.028895     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  221 	Rep:  3 	Time: 0.028811     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  221 	Rep:  4 	Time: 0.029107     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  221 	Rep:  5 	Time: 0.028793     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  222 	Rep:  1 	Time: 0.029043     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  222 	Rep:  2 	Time: 0.029052     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  222 	Rep:  3 	Time: 0.028783     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  222 	Rep:  4 	Time: 0.028718     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  222 	Rep:  5 	Time: 0.029032     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  223 	Rep:  1 	Time: 0.029001     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  223 	Rep:  2 	Time: 0.028916     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  223 	Rep:  3 	Time: 0.028959     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  223 	Rep:  4 	Time: 0.028799     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  223 	Rep:  5 	Time: 0.029208     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  224 	Rep:  1 	Time: 0.028570     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  224 	Rep:  2 	Time: 0.029030     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  224 	Rep:  3 	Time: 0.029201     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  224 	Rep:  4 	Time: 0.028945     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  224 	Rep:  5 	Time: 0.029011     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  225 	Rep:  1 	Time: 0.029025     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  225 	Rep:  2 	Time: 0.028749     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  225 	Rep:  3 	Time: 0.028733     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  225 	Rep:  4 	Time: 0.029012     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  225 	Rep:  5 	Time: 0.028838     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  226 	Rep:  1 	Time: 0.028982     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  226 	Rep:  2 	Time: 0.028964     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  226 	Rep:  3 	Time: 0.028954     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  226 	Rep:  4 	Time: 0.028831     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  226 	Rep:  5 	Time: 0.028901     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  227 	Rep:  1 	Time: 0.028891     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  227 	Rep:  2 	Time: 0.028886     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  227 	Rep:  3 	Time: 0.028840     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  227 	Rep:  4 	Time: 0.028695     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  227 	Rep:  5 	Time: 0.028864     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  228 	Rep:  1 	Time: 0.029144     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  228 	Rep:  2 	Time: 0.028790     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  228 	Rep:  3 	Time: 0.028794     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  228 	Rep:  4 	Time: 0.029126     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  228 	Rep:  5 	Time: 0.028931     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  229 	Rep:  1 	Time: 0.028816     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  229 	Rep:  2 	Time: 0.028716     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  229 	Rep:  3 	Time: 0.028872     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  229 	Rep:  4 	Time: 0.028814     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  229 	Rep:  5 	Time: 0.028792     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  230 	Rep:  1 	Time: 0.028861     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  230 	Rep:  2 	Time: 0.028675     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  230 	Rep:  3 	Time: 0.028921     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  230 	Rep:  4 	Time: 0.029089     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  230 	Rep:  5 	Time: 0.028845     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  231 	Rep:  1 	Time: 0.028987     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  231 	Rep:  2 	Time: 0.028807     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  231 	Rep:  3 	Time: 0.028992     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  231 	Rep:  4 	Time: 0.028915     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  231 	Rep:  5 	Time: 0.028920     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  232 	Rep:  1 	Time: 0.028846     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  232 	Rep:  2 	Time: 0.028981     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  232 	Rep:  3 	Time: 0.028938     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  232 	Rep:  4 	Time: 0.028800     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  232 	Rep:  5 	Time: 0.028884     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  233 	Rep:  1 	Time: 0.028863     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  233 	Rep:  2 	Time: 0.028909     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  233 	Rep:  3 	Time: 0.029053     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  233 	Rep:  4 	Time: 0.028760     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  233 	Rep:  5 	Time: 0.029004     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  234 	Rep:  1 	Time: 0.028787     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  234 	Rep:  2 	Time: 0.028991     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  234 	Rep:  3 	Time: 0.028739     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  234 	Rep:  4 	Time: 0.028949     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  234 	Rep:  5 	Time: 0.028972     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  235 	Rep:  1 	Time: 0.029091     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  235 	Rep:  2 	Time: 0.028946     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  235 	Rep:  3 	Time: 0.029090     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  235 	Rep:  4 	Time: 0.028998     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  235 	Rep:  5 	Time: 0.029220     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  236 	Rep:  1 	Time: 0.028767     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  236 	Rep:  2 	Time: 0.028927     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  236 	Rep:  3 	Time: 0.028750     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  236 	Rep:  4 	Time: 0.028858     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  236 	Rep:  5 	Time: 0.028860     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  237 	Rep:  1 	Time: 0.028905     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  237 	Rep:  2 	Time: 0.028798     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  237 	Rep:  3 	Time: 0.028970     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  237 	Rep:  4 	Time: 0.028740     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  237 	Rep:  5 	Time: 0.028973     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  238 	Rep:  1 	Time: 0.028804     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  238 	Rep:  2 	Time: 0.028869     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  238 	Rep:  3 	Time: 0.028792     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  238 	Rep:  4 	Time: 0.029065     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  238 	Rep:  5 	Time: 0.028915     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  239 	Rep:  1 	Time: 0.029167     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  239 	Rep:  2 	Time: 0.028963     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  239 	Rep:  3 	Time: 0.028933     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  239 	Rep:  4 	Time: 0.028942     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  239 	Rep:  5 	Time: 0.028918     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  240 	Rep:  1 	Time: 0.028769     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  240 	Rep:  2 	Time: 0.028885     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  240 	Rep:  3 	Time: 0.028764     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  240 	Rep:  4 	Time: 0.028839     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  240 	Rep:  5 	Time: 0.028830     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  241 	Rep:  1 	Time: 0.028913     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  241 	Rep:  2 	Time: 0.028916     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  241 	Rep:  3 	Time: 0.028880     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  241 	Rep:  4 	Time: 0.029092     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  241 	Rep:  5 	Time: 0.028836     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  242 	Rep:  1 	Time: 0.028852     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  242 	Rep:  2 	Time: 0.028952     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  242 	Rep:  3 	Time: 0.028897     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  242 	Rep:  4 	Time: 0.028758     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  242 	Rep:  5 	Time: 0.028862     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  243 	Rep:  1 	Time: 0.028940     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  243 	Rep:  2 	Time: 0.028915     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  243 	Rep:  3 	Time: 0.028867     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  243 	Rep:  4 	Time: 0.028982     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  243 	Rep:  5 	Time: 0.029115     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  244 	Rep:  1 	Time: 0.028766     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  244 	Rep:  2 	Time: 0.028880     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  244 	Rep:  3 	Time: 0.029040     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  244 	Rep:  4 	Time: 0.028924     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  244 	Rep:  5 	Time: 0.028934     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  245 	Rep:  1 	Time: 0.028701     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  245 	Rep:  2 	Time: 0.028562     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  245 	Rep:  3 	Time: 0.028870     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  245 	Rep:  4 	Time: 0.029019     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  245 	Rep:  5 	Time: 0.029190     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  246 	Rep:  1 	Time: 0.028982     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  246 	Rep:  2 	Time: 0.028779     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  246 	Rep:  3 	Time: 0.028766     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  246 	Rep:  4 	Time: 0.028725     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  246 	Rep:  5 	Time: 0.028697     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  247 	Rep:  1 	Time: 0.028961     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  247 	Rep:  2 	Time: 0.028594     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  247 	Rep:  3 	Time: 0.028749     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  247 	Rep:  4 	Time: 0.028515     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  247 	Rep:  5 	Time: 0.028699     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  248 	Rep:  1 	Time: 0.028568     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  248 	Rep:  2 	Time: 0.028752     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  248 	Rep:  3 	Time: 0.028669     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  248 	Rep:  4 	Time: 0.028797     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  248 	Rep:  5 	Time: 0.028561     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  249 	Rep:  1 	Time: 0.028837     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  249 	Rep:  2 	Time: 0.028931     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  249 	Rep:  3 	Time: 0.028595     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  249 	Rep:  4 	Time: 0.028700     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  249 	Rep:  5 	Time: 0.028620     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  250 	Rep:  1 	Time: 0.028787     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  250 	Rep:  2 	Time: 0.028778     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  250 	Rep:  3 	Time: 0.028744     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  250 	Rep:  4 	Time: 0.028743     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  250 	Rep:  5 	Time: 0.028832     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  251 	Rep:  1 	Time: 0.028818     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  251 	Rep:  2 	Time: 0.028772     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  251 	Rep:  3 	Time: 0.028769     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  251 	Rep:  4 	Time: 0.028755     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  251 	Rep:  5 	Time: 0.028670     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  252 	Rep:  1 	Time: 0.028828     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  252 	Rep:  2 	Time: 0.028641     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  252 	Rep:  3 	Time: 0.028759     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  252 	Rep:  4 	Time: 0.028683     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  252 	Rep:  5 	Time: 0.028658     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  253 	Rep:  1 	Time: 0.028936     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  253 	Rep:  2 	Time: 0.028738     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  253 	Rep:  3 	Time: 0.028640     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  253 	Rep:  4 	Time: 0.028769     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  253 	Rep:  5 	Time: 0.028673     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  254 	Rep:  1 	Time: 0.028799     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  254 	Rep:  2 	Time: 0.028669     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  254 	Rep:  3 	Time: 0.028768     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  254 	Rep:  4 	Time: 0.028609     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  254 	Rep:  5 	Time: 0.028921     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  255 	Rep:  1 	Time: 0.028843     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  255 	Rep:  2 	Time: 0.028991     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  255 	Rep:  3 	Time: 0.028763     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  255 	Rep:  4 	Time: 0.028764     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  255 	Rep:  5 	Time: 0.028723     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  256 	Rep:  1 	Time: 0.029055     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  256 	Rep:  2 	Time: 0.028676     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  256 	Rep:  3 	Time: 0.028853     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  256 	Rep:  4 	Time: 0.028712     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  256 	Rep:  5 	Time: 0.028748     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  257 	Rep:  1 	Time: 0.029030     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  257 	Rep:  2 	Time: 0.028752     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  257 	Rep:  3 	Time: 0.028791     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  257 	Rep:  4 	Time: 0.028877     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  257 	Rep:  5 	Time: 0.028754     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  258 	Rep:  1 	Time: 0.028875     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  258 	Rep:  2 	Time: 0.028734     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  258 	Rep:  3 	Time: 0.028658     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  258 	Rep:  4 	Time: 0.028752     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  258 	Rep:  5 	Time: 0.028782     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  259 	Rep:  1 	Time: 0.029014     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  259 	Rep:  2 	Time: 0.029425     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  259 	Rep:  3 	Time: 0.028981     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  259 	Rep:  4 	Time: 0.029071     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  259 	Rep:  5 	Time: 0.028758     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  260 	Rep:  1 	Time: 0.029006     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  260 	Rep:  2 	Time: 0.028940     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  260 	Rep:  3 	Time: 0.029224     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  260 	Rep:  4 	Time: 0.028694     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  260 	Rep:  5 	Time: 0.028619     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  261 	Rep:  1 	Time: 0.029053     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  261 	Rep:  2 	Time: 0.028882     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  261 	Rep:  3 	Time: 0.028850     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  261 	Rep:  4 	Time: 0.028912     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  261 	Rep:  5 	Time: 0.028818     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  262 	Rep:  1 	Time: 0.029171     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  262 	Rep:  2 	Time: 0.028852     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  262 	Rep:  3 	Time: 0.028835     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  262 	Rep:  4 	Time: 0.028980     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  262 	Rep:  5 	Time: 0.028790     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  263 	Rep:  1 	Time: 0.029090     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  263 	Rep:  2 	Time: 0.029293     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  263 	Rep:  3 	Time: 0.028720     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  263 	Rep:  4 	Time: 0.028878     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  263 	Rep:  5 	Time: 0.028790     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  264 	Rep:  1 	Time: 0.028955     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  264 	Rep:  2 	Time: 0.028781     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  264 	Rep:  3 	Time: 0.028953     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  264 	Rep:  4 	Time: 0.028993     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  264 	Rep:  5 	Time: 0.029152     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  265 	Rep:  1 	Time: 0.028806     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  265 	Rep:  2 	Time: 0.029013     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  265 	Rep:  3 	Time: 0.028568     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  265 	Rep:  4 	Time: 0.029072     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  265 	Rep:  5 	Time: 0.028561     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  266 	Rep:  1 	Time: 0.029077     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  266 	Rep:  2 	Time: 0.028814     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  266 	Rep:  3 	Time: 0.028903     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  266 	Rep:  4 	Time: 0.029093     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  266 	Rep:  5 	Time: 0.028541     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  267 	Rep:  1 	Time: 0.028570     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  267 	Rep:  2 	Time: 0.028737     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  267 	Rep:  3 	Time: 0.028958     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  267 	Rep:  4 	Time: 0.028906     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  267 	Rep:  5 	Time: 0.028620     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  268 	Rep:  1 	Time: 0.028910     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  268 	Rep:  2 	Time: 0.028761     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  268 	Rep:  3 	Time: 0.028771     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  268 	Rep:  4 	Time: 0.028833     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  268 	Rep:  5 	Time: 0.028777     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  269 	Rep:  1 	Time: 0.028683     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  269 	Rep:  2 	Time: 0.028815     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  269 	Rep:  3 	Time: 0.028928     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  269 	Rep:  4 	Time: 0.029464     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  269 	Rep:  5 	Time: 0.028797     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  270 	Rep:  1 	Time: 0.028616     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  270 	Rep:  2 	Time: 0.028792     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  270 	Rep:  3 	Time: 0.028729     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  270 	Rep:  4 	Time: 0.028764     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  270 	Rep:  5 	Time: 0.028940     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  271 	Rep:  1 	Time: 0.028591     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  271 	Rep:  2 	Time: 0.028772     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  271 	Rep:  3 	Time: 0.028562     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  271 	Rep:  4 	Time: 0.028701     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  271 	Rep:  5 	Time: 0.029352     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  272 	Rep:  1 	Time: 0.029070     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  272 	Rep:  2 	Time: 0.028975     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  272 	Rep:  3 	Time: 0.028979     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  272 	Rep:  4 	Time: 0.029063     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  272 	Rep:  5 	Time: 0.028760     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  273 	Rep:  1 	Time: 0.028863     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  273 	Rep:  2 	Time: 0.029003     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  273 	Rep:  3 	Time: 0.028902     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  273 	Rep:  4 	Time: 0.029111     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  273 	Rep:  5 	Time: 0.028919     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  274 	Rep:  1 	Time: 0.028812     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  274 	Rep:  2 	Time: 0.028955     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  274 	Rep:  3 	Time: 0.028864     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  274 	Rep:  4 	Time: 0.028787     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  274 	Rep:  5 	Time: 0.028929     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  275 	Rep:  1 	Time: 0.028810     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  275 	Rep:  2 	Time: 0.028844     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  275 	Rep:  3 	Time: 0.029026     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  275 	Rep:  4 	Time: 0.028933     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  275 	Rep:  5 	Time: 0.028821     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  276 	Rep:  1 	Time: 0.028657     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  276 	Rep:  2 	Time: 0.028897     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  276 	Rep:  3 	Time: 0.028948     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  276 	Rep:  4 	Time: 0.028949     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  276 	Rep:  5 	Time: 0.028751     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  277 	Rep:  1 	Time: 0.028920     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  277 	Rep:  2 	Time: 0.029028     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  277 	Rep:  3 	Time: 0.029088     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  277 	Rep:  4 	Time: 0.028784     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  277 	Rep:  5 	Time: 0.029058     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  278 	Rep:  1 	Time: 0.028767     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  278 	Rep:  2 	Time: 0.028943     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  278 	Rep:  3 	Time: 0.028950     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  278 	Rep:  4 	Time: 0.029065     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  278 	Rep:  5 	Time: 0.028859     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  279 	Rep:  1 	Time: 0.028912     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  279 	Rep:  2 	Time: 0.028949     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  279 	Rep:  3 	Time: 0.028781     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  279 	Rep:  4 	Time: 0.028831     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  279 	Rep:  5 	Time: 0.028767     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  280 	Rep:  1 	Time: 0.918715     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  280 	Rep:  2 	Time: 2.412712     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  280 	Rep:  3 	Time: 4.536583     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  280 	Rep:  4 	Time: 1.768435     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  280 	Rep:  5 	Time: 1.156724     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  281 	Rep:  1 	Time: 3.858831     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  281 	Rep:  2 	Time: 1.806962     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  281 	Rep:  3 	Time: 1.698986     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  281 	Rep:  4 	Time: 3.626312     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  281 	Rep:  5 	Time: 3.322843     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  282 	Rep:  1 	Time: 4.999327     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  282 	Rep:  2 	Time: 1.236992     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  282 	Rep:  3 	Time: 4.456468     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  282 	Rep:  4 	Time: 2.337475     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  282 	Rep:  5 	Time: 1.628837     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  283 	Rep:  1 	Time: 1.038708     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  283 	Rep:  2 	Time: 1.307215     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  283 	Rep:  3 	Time: 1.627069     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  283 	Rep:  4 	Time: 1.128856     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  283 	Rep:  5 	Time: 1.569290     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  284 	Rep:  1 	Time: 2.415025     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  284 	Rep:  2 	Time: 0.948947     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  284 	Rep:  3 	Time: 0.995833     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  284 	Rep:  4 	Time: 1.603708     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  284 	Rep:  5 	Time: 4.100974     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  285 	Rep:  1 	Time: 2.281371     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  285 	Rep:  2 	Time: 1.705359     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  285 	Rep:  3 	Time: 2.337259     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  285 	Rep:  4 	Time: 2.805870     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  285 	Rep:  5 	Time: 3.535803     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  286 	Rep:  1 	Time: 4.001105     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  286 	Rep:  2 	Time: 1.319991     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  286 	Rep:  3 	Time: 1.469295     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  286 	Rep:  4 	Time: 2.166984     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  286 	Rep:  5 	Time: 1.839150     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  287 	Rep:  1 	Time: 1.295290     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  287 	Rep:  2 	Time: 1.424713     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  287 	Rep:  3 	Time: 2.793670     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  287 	Rep:  4 	Time: 0.786012     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  287 	Rep:  5 	Time: 1.213930     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  288 	Rep:  1 	Time: 1.862030     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  288 	Rep:  2 	Time: 1.396417     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  288 	Rep:  3 	Time: 1.674118     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  288 	Rep:  4 	Time: 2.264723     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  288 	Rep:  5 	Time: 0.875789     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  289 	Rep:  1 	Time: 0.909310     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  289 	Rep:  2 	Time: 2.118214     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  289 	Rep:  3 	Time: 0.852251     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  289 	Rep:  4 	Time: 1.295114     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  289 	Rep:  5 	Time: 1.192130     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  290 	Rep:  1 	Time: 2.524507     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  290 	Rep:  2 	Time: 6.325824     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  290 	Rep:  3 	Time: 1.548644     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  290 	Rep:  4 	Time: 5.426130     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  290 	Rep:  5 	Time: 1.091637     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  291 	Rep:  1 	Time: 2.701513     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  291 	Rep:  2 	Time: 0.994836     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  291 	Rep:  3 	Time: 4.549410     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  291 	Rep:  4 	Time: 1.662595     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  291 	Rep:  5 	Time: 4.234330     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  292 	Rep:  1 	Time: 0.754423     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  292 	Rep:  2 	Time: 5.379453     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  292 	Rep:  3 	Time: 1.768049     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  292 	Rep:  4 	Time: 3.544385     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  292 	Rep:  5 	Time: 4.600569     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  293 	Rep:  1 	Time: 3.610595     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  293 	Rep:  2 	Time: 3.403128     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  293 	Rep:  3 	Time: 0.806730     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  293 	Rep:  4 	Time: 1.957413     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  293 	Rep:  5 	Time: 0.607227     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  294 	Rep:  1 	Time: 2.122125     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  294 	Rep:  2 	Time: 2.159871     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  294 	Rep:  3 	Time: 2.385570     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  294 	Rep:  4 	Time: 0.905156     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  294 	Rep:  5 	Time: 2.834424     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  295 	Rep:  1 	Time: 3.370514     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  295 	Rep:  2 	Time: 1.685407     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  295 	Rep:  3 	Time: 1.084817     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  295 	Rep:  4 	Time: 0.782295     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  295 	Rep:  5 	Time: 2.558344     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  296 	Rep:  1 	Time: 1.127704     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  296 	Rep:  2 	Time: 1.938858     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  296 	Rep:  3 	Time: 4.142824     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  296 	Rep:  4 	Time: 0.593652     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  296 	Rep:  5 	Time: 0.847839     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  297 	Rep:  1 	Time: 3.637175     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  297 	Rep:  2 	Time: 4.299559     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  297 	Rep:  3 	Time: 0.940625     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  297 	Rep:  4 	Time: 1.023813     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  297 	Rep:  5 	Time: 1.624337     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  298 	Rep:  1 	Time: 1.141131     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  298 	Rep:  2 	Time: 0.743889     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  298 	Rep:  3 	Time: 2.978264     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  298 	Rep:  4 	Time: 3.113702     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  298 	Rep:  5 	Time: 2.596441     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  299 	Rep:  1 	Time: 3.691451     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  299 	Rep:  2 	Time: 1.778122     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  299 	Rep:  3 	Time: 1.672966     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  299 	Rep:  4 	Time: 2.678785     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  299 	Rep:  5 	Time: 0.717536     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
+Threshold:  300 	Rep:  1 	Time: 3.491139     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  300 	Rep:  2 	Time: 2.668002     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  300 	Rep:  3 	Time: 1.525440     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  300 	Rep:  4 	Time: 1.387113     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+Threshold:  300 	Rep:  5 	Time: 0.933319     Matches: 438     Errors: 0     PercentCorrect: 100.000000
+==============================================================================
