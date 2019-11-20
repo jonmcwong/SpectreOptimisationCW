@@ -1,0 +1,21 @@
+collect base line results.
+
+Where do I expect is will be the largest factor effecting speed? -> The ending condition.
+Make the ending condition as short as possible. Gotta understand what it is first.
+
+Turns out the loop out the variance for detection is very low as there is one character per cache line.
+The chance that accessing another element will load the same cache line is very small. 
+The score is always at 2 meaning it is the only non-zero entry
+Therefore reducing the number of tries from 999 shouldn't affect speed too much besides, when it fails
+I've gotten rid of the tries altogether and have only kept the N loops for training the branches
+turns out even though each letter is successful with a score of 2, the number of tries goes up to 20, this indicates that the timings aren't always below the threshold. 
+
+Try increase cache threshold. Looking at baseline data, the speed stays the sam between 100 and 250 cycles.
+Set the cache threshold to the highest possible to increase the chance of cache hit being detected.
+Number of tries have reduced to 1, can get rid of loop now. can also get rid of repeated training cycles
+
+Gotten rid of tries
+number of NLOOPS reduced to 6 so only one malicious read
+number of training steps reduced to 5
+
+If we only expect one leter to have a value of 1, then we can break on the first threshold pass.
